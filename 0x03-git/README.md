@@ -1,1 +1,1 @@
-This directory contains vi tasks
+This directory contains all vi tasks (EDITED)
